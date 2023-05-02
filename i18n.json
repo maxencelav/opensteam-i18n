@@ -1,12 +1,12 @@
 {
 	"key": {
-		fr: "text",
-		es: "text",
-		it: "text",
+		"fr": "text",
+		"es": "text",
+		"it": "text"
 	},
 	"key2": {
-	  fr: "text",
-		es: "text",
-		it: "text",
+	  	"fr": "text",
+		"es": "text",
+		"it": "text"
 	}
 }
