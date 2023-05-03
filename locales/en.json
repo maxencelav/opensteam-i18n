@@ -1,4 +1,8 @@
 {
-    "hello": "Hello!",
-    "goodbye": ""
+    "Message affiché lors de la connexion de l'utilisateur": {
+        "hello": "Hello!"
+    },
+    "Message affiché lors de la déconnexion de l'utilisateur": {
+        "goodbye": "Goodbye!"
+    }
 }
