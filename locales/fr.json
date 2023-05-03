@@ -1,0 +1,8 @@
+{
+    "Message affiché lors de la connexion de l'utilisateur": {
+        "hello": "Bonjour !"
+    },
+    "Message affiché lors de la déconnexion de l'utilisateur": {
+        "goodbye": "Au revoir !\n"
+    }
+}
